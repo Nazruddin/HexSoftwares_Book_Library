@@ -15,7 +15,7 @@ A **Book Library Web App** for managing a personal collection of books. Users ca
 
 ## 📸 Screenshot
 
-![Book Library Screenshot](screenshot.png)
+![Book Library Screenshot](Screenshot.png)
 
 ---
 
